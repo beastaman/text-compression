@@ -1,1 +1,2 @@
-# text-compression
+# Text Compressor using Huffman Encoding
+dkn
